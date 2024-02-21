@@ -90,5 +90,7 @@ cacheSolve(my.matrix.A)
 
 cacheSolve(my.matrix.C)
 
+rm(turd)
+
 
 
